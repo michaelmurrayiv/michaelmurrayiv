@@ -1,6 +1,6 @@
 Hi, I'm Michael! 
 
-A a fifth-year undergraduate at Cal Poly, I'm close to finishing my degreen in computer science, with minors in philosophy and math.
+A a fifth-year undergraduate at Cal Poly, I'm close to finishing my degree in computer science, with minors in philosophy and math.
 
 I'm passionate about cybersecurity, software engineering, and machine learning. Recently, I've been particularly interested in cybersecurity after some informative conversations with industry professionals.
 
