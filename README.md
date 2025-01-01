@@ -4,4 +4,4 @@ A a fifth-year undergraduate at Cal Poly, I'm close to finishing my degree in co
 
 I'm passionate about cybersecurity, software engineering, and machine learning.
 
-Check out my website [here](https://www.michael-murray.vercel.app)!
+Check out my website [here](https://michael-murray.vercel.app/)!
