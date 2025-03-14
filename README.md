@@ -1,7 +1,5 @@
 Hi, I'm Michael! 
 
-A a fifth-year undergraduate at Cal Poly, I'm close to finishing my degree in computer science, with a minor in philosophy.
+I'm a Cal Poly grad with passion for software engineering and machine learning. I enjoy solving complex problems and expanding my technical skills through hands-on projects. Current developer at MindSprout and AI for Search and Rescue.
 
-I'm passionate about cybersecurity, software engineering, and machine learning.
-
-Check out my website [here](https://michael-murray.vercel.app/)!
+Check out [my website](https://michael-murray.vercel.app/)!
